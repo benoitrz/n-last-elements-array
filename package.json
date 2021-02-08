@@ -1,0 +1,11 @@
+{
+  "name": "n-last-elements-array",
+  "version": "1.0.0",
+  "description": "Simple class allowing to cache the last n elements within an array without allowing the array growing further.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Benoit Trzpit",
+  "license": "ISC"
+}
